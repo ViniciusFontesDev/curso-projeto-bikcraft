@@ -21,7 +21,10 @@
 @import url(home/depoimento.css);
 
 /*Bicicletas*/
-@import url(/css/bicicletas/bicicletas-lista.css);
+@import url(css/bicicletas/bicicletas-lista.css);
 
 /*Seguros*/
 @import url(seguros/seguros.css);
+
+/*termos*/
+@import url(termos/termos.css);
